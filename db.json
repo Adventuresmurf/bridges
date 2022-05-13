@@ -1,0 +1,31 @@
+{
+  "NewsItems": [
+    {
+      "id":1,
+      "title": "liften Millenium Coronavirus",
+      "date": "Di 15/04/2020 - 08:12",
+      "ModDate":"Laatst gewijzigd op 15/04/2020 om 08:20",
+      "intro": "De lift is buiten dienst, onze excuses voor het ongemak. In het kader van de maatregelen tegen...",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "info": false
+    },
+    {
+      "id":2,
+      "title": "liften Southwark Bridge",
+      "date": "Di 16/04/2020 - 08:12",
+      "ModDate":"Laatst gewijzigd op 15/04/2020 om 08:20",
+      "intro": "De lift is buiten dienst, onze excuses voor het ongemak. In het kader van de maatregelen tegen...",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "info": false
+    },
+    {
+      "id":3,
+      "title": "liften London Bridge",
+      "date": "Di 17/04/2020 - 08:12",
+      "ModDate":"Laatst gewijzigd op 15/04/2020 om 08:20",
+      "intro": "De lift is buiten dienst, onze excuses voor het ongemak. In het kader van de maatregelen tegen...",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "info": false
+    }
+  ]
+}
